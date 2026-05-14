@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3576",
+  "folder": "YouTube__watch_20260514184443_dc1648",
+  "base_name": "Resident_Evil_Requiem_-_So_GOOD_yet_so_BAD_aiq4IWbCoek_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/grumpyalien/Cloud-Downloads-02/releases/tag/co-releases-v1-3576",
+  "files": [
+    {
+      "name": "Resident_Evil_Requiem_-_So_GOOD_yet_so_BAD_aiq4IWbCoek_480p.mp4",
+      "url": "https://github.com/grumpyalien/Cloud-Downloads-02/releases/download/co-releases-v1-3576/Resident_Evil_Requiem_-_So_GOOD_yet_so_BAD_aiq4IWbCoek_480p.mp4",
+      "api_url": "https://api.github.com/repos/grumpyalien/Cloud-Downloads-02/releases/assets/420417511",
+      "id": 420417511,
+      "size": 159407663,
+      "download_count": 0
+    }
+  ]
+}
